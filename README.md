@@ -9,5 +9,5 @@ Sou uma dev em formação, técnica em Informática para Internet pelo IFRS - Ca
 
 Tenho 8 gatos :cat2:, amo ler romances água com açúcar :books: e ouvir sertanejo nas horas vagas e enquanto programo :cowboy_hat_face:
 
-Nunca recuso um bom café :coffee:	
+Nunca recuso um bom café (sem açúcar, por favor) :coffee:	
 
