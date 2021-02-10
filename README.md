@@ -11,3 +11,4 @@ Tenho 8 gatos :cat2:, amo ler romances água com açúcar :books: e ouvir sertan
 
 Nunca recuso um bom café (sem açúcar, por favor) :coffee:	
 
+pessoa clipart PNG foi desenvolvido por ngupakarti e vem de <a href="https://pt.pngtree.com">Pngtree.com</a>
