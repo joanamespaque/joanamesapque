@@ -8,5 +8,6 @@
 Sou uma dev em formação, técnica em Informática para Internet pelo IFRS - Campus Rio Grande e atualmente estou cursando o primeiro semestre do Bacharel em Ciência da Computação na Universidade Federal de Pelotas (UFPel). 
 
 Tenho 8 gatos :cat2:, amo ler romances água com açúcar :books: e ouvir sertanejo nas horas vagas e enquanto programo :cowboy_hat_face:
+
 Nunca recuso um bom café preto :coffee:	
 
