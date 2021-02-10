@@ -1,9 +1,12 @@
 ![capa github](https://github.com/joanamespaque/joanamesapque/blob/main/images/header.png)  
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanamespaque&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-  </table>
-</center>  
+
+### Olá! :call_me_hand:
+
+---
+
+Sou uma dev em formação, técnica em Informática para Internet pelo IFRS - Campus Rio Grande e atualmente estou cursando o primeiro semestre do Bacharel em Ciência da Computação na Universidade Federal de Pelotas (UFPel). 
+
+Tenho 8 gatos :cat2:, amo ler romances água com açúcar :books: e ouvir sertanejo nas horas vagas e enquanto programo :cowboy_hat_face:
+Nunca recuso um bom café preto :coffee:	
+
