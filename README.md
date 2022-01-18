@@ -1,14 +1,13 @@
-![capa github](https://github.com/joanamespaque/joanamesapque/blob/main/images/header.png)  
+![header github](https://github.com/joanamespaque/joanamesapque/blob/main/images/header.png)  
 
 
-### Olá! :call_me_hand:
+### Hello! :call_me_hand:
 
 ---
+I'm a twenty one years woman full-stack developer, I have a technical course in Internet Computing at IFRS - Campus Rio Grande and I'm in the third semester of the Bachelor's Degree of Computer Science at the Universidade Federal de Pelotas (UFPel) :woman_student:
 
-Sou uma dev em formação, técnica em Informática para Internet pelo IFRS - Campus Rio Grande e atualmente estou cursando o segundo semestre do Bacharel em Ciência da Computação na Universidade Federal de Pelotas (UFPel) :woman_student:	
+I live with my two kittens :cat2:, I love to read romance novels :books: and listen to sertanejo in my spare time and while programming :cowboy_hat_face:
 
-Moro com minhas duas gatinhas :cat2:, amo ler romances água com açúcar :books: e ouvir sertanejo nas horas vagas e enquanto programo :cowboy_hat_face:
+I never turn down a good coffee (no sugar please) :coffee:
 
-Nunca recuso um bom café (sem açúcar, por favor) :coffee:	
-
-// pessoa clipart PNG foi desenvolvido por ngupakarti e vem de <a href="https://pt.pngtree.com">Pngtree.com</a>
+// person clipart PNG was developed by ngupakarti and comes from <a href="https://en.pngtree.com">Pngtree.com</a>
